@@ -1,4 +1,4 @@
-# Arweave Subaccounts
+# Cosmos Subaccounts
 
 The Subaccounts Protocol for Arweave allows users to create and manage sub-wallets (subaccounts) under a master wallet, with accociation of each sub-wallet with the master wallet in a verifiable manner.
 
